@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 727,
+      "ypos": 736,
+      "width": 86,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 768,
+      "ypos": 746,
+      "width": 10,
+      "height": 10,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-tray-without-updates"
+  ]
+}

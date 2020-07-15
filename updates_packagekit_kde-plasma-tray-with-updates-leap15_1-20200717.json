@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 788,
+      "ypos": 739,
+      "width": 21,
+      "height": 23,
+      "type": "match",
+      "match": 90  
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-tray-with-updates"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 588,
+      "ypos": 388,
+      "width": 129,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 753,
+      "ypos": 738,
+      "width": 25,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-tray-installing"
+  ]
+}

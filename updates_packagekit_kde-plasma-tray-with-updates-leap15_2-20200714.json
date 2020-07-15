@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 731,
+      "xpos": 753,
+      "type": "match",
+      "click_point": {
+        "xpos": 14,
+        "ypos": 17
+      },
+      "height": 30,
+      "width": 28
+    },
+    {
+      "type": "match",
+      "ypos": 673,
+      "xpos": 655,
+      "height": 17,
+      "width": 59
+    },
+    {
+      "xpos": 764,
+      "ypos": 675,
+      "type": "match",
+      "height": 14,
+      "width": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-tray-with-updates"
+  ]
+}
